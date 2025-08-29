@@ -1,0 +1,13 @@
+# 6) Release Checklist
+
+- **Performance:** steady ~60 FPS on a mid-range laptop; glow intensity ≤0.3; only one hemispheric light.  
+- **Timer:** MM:SS, large, monospace, and visible at all times (screenshot-friendly).  
+- **Puzzles:** all four playable end-to-end; wrong-path feedback present; two-tier hints show via **?** (and after 60s idle).  
+- **Inputs:** WASD, mouse look, **E** interact, **P/Esc** pause/resume, **R** restart, **H** hints — all functional.  
+- **Easter Egg:** 3-1-4-2 within 10s triggers neon + confetti/banner cosmetic.  
+- **Models:** optional `.glb` hot-swap works; placeholders remain if absent.  
+- **Embed:** iframe renders at 16:9 with letterbox; no console errors on landing page.
+
+---
+
+If you want, I can also deliver a **minified zip** with this structure and a tiny demo video, but you can copy-paste this directly and you’re off to the races.
